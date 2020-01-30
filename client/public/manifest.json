@@ -2,7 +2,7 @@
   "name": "Awesome PWA",
   "short_name": "PWA - Awesome Progressive Web App Demo",
   "description": "Turn your React site into PWA App for Android, iOS and Desktop with a customizable banner",
-  "start_url": "/?source=pwa",
+  "start_url": ".",
   "display": "standalone",
   "scope": "/",
   "categories": ["pwa", "demo", "react", "awesome"],

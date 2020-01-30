@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "http://luisFebro.github.io/awesome-pwa-demo",
+  "homepage": "http://luisfebro.github.io/awesome-pwa-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
