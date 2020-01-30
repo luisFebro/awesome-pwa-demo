@@ -21,6 +21,9 @@ function App() {
        </a>
      </header>
      <JwtInstaller
+        title="<strong>Download our app to homescreen</strong><br />and have a faster and awesome<br />access experience"
+        color="white"
+        backgroundColor="black"
         icon="https://image.flaticon.com/icons/png/512/223/223203.png"
      />
    </div>
